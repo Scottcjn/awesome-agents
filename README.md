@@ -15,6 +15,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Monitoring and Observability](#monitoring-and-observability)
 - [SDKs and Libraries](#sdks-and-libraries)
 - [Standards and Specifications](#standards-and-specifications)
+- [Edge and Retro Inference](#edge-and-retro-inference)
 - [Research and Papers](#research-and-papers)
 - [Contributing](#contributing)
 
@@ -174,6 +175,18 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Tool Use Schemas](https://json-schema.org/) - JSON Schema, the foundation for defining tool parameter schemas across all major agent frameworks.
 - [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
 - [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
+
+## Edge and Retro Inference
+
+*Running AI models on constrained, embedded, and vintage hardware.*
+
+- [N64 nano-GPT](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya) - First LLM running on Nintendo 64 hardware — Q4 fixed-point nano-GPT inference on a 93MHz VR4300 with 4MB RAM.
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - High-performance LLM inference in C/C++ supporting CPU, GPU, and exotic architectures with GGUF quantization.
+- [TinyLlama](https://github.com/jzhang38/TinyLlama) - 1.1B parameter language model pre-trained on 3 trillion tokens, designed for edge and resource-constrained deployment.
+- [MLC LLM](https://github.com/mlc-ai/mlc-llm) - Universal LLM deployment engine running models natively on phones, browsers, and embedded devices.
+- [ExecuTorch](https://github.com/pytorch/executorch) - PyTorch's on-device inference framework for mobile and edge AI with optimized backends.
+- [Whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper speech recognition to C/C++ for CPU-only and embedded inference.
+- [TensorFlow Lite Micro](https://github.com/tensorflow/tflite-micro) - TensorFlow Lite for microcontrollers — ML inference on devices with kilobytes of memory.
 
 ## Research and Papers
 
