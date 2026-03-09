@@ -165,6 +165,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Ollama Python](https://github.com/ollama/ollama-python) - Python library for running and interacting with local LLMs via the Ollama runtime.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
 - [Marvin](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
+- [AgentWallet SDK](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
 ## Standards and Specifications
 
