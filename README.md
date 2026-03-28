@@ -133,6 +133,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Fetch.ai](https://github.com/fetchai/fetchd) - Decentralized machine learning platform with autonomous economic agents on a dedicated blockchain.
 - [Autonolas](https://github.com/valory-xyz/open-autonomy) - Platform for creating and deploying autonomous agent services on-chain.
 - [Virtuals Protocol](https://www.virtuals.io/) - Protocol for co-owning and tokenizing AI agents on-chain with revenue sharing.
+- [Hashgraph Online (HOL)](https://hol.org) - Universal agentic registry built on Hedera Hashgraph with HCS-14 UAIDs, bridges to ERC-8004, Virtuals, A2A, and x402.
 - [ai16z ELIZA](https://github.com/ai16z/eliza) - Multi-agent simulation framework enabling AI agents to interact on social media and manage crypto wallets.
 - [Morpheus](https://github.com/MorpheusAIs/Morpheus) - Decentralized network of personal AI agents connected to smart contracts and crypto wallets.
 - [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
