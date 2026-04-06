@@ -169,6 +169,8 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Marvin](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
 - [AgentWallet SDK](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
+- [asqav](https://github.com/jagmarques/asqav-sdk) - Python SDK for AI agent governance. Cryptographically signed audit trails, runtime policy enforcement, and OWASP Agentic Top 10 compliance. Works with LangChain, CrewAI, MCP.
+
 ## Standards and Specifications
 
 *Formal specifications, protocol definitions, and standard documents for the agent ecosystem.*
