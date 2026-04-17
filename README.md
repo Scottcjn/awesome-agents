@@ -48,6 +48,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Dify](https://github.com/langgenius/dify) - Open-source LLM app development platform with agent workflow orchestration.
 - [Letta](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 - [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
+- [Qualixar OS](https://github.com/qualixar/qualixar-os) - Universal AI agent runtime with 13 execution topologies (debate, mesh, hybrid, etc.), Forge AI auto-team-designer, and judge pipeline. arXiv:2604.06392.
 
 ## Frameworks
 
@@ -88,6 +89,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
 - [LMOS](https://github.com/eclipse-lmos/lmos) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 - [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
+- [SLM Mesh](https://github.com/qualixar/slm-mesh) - P2P coordination for AI agent sessions via MCP. Broadcast messaging, shared state, distributed locks. Works with Claude Code, Cursor, Windsurf.
 
 ## Video and Media
 
@@ -141,6 +143,8 @@ AI agents are autonomous software entities that perceive their environment, make
 
 ## Monitoring and Observability
 
+- [AgentAssay](https://github.com/qualixar/agentassay) - Token-efficient AI agent testing — behavioral fingerprinting, 5D coverage, 78-100% cost reduction. 10 framework adapters. arXiv:2603.02601.
+- [AgentAssert](https://github.com/qualixar/agentassert-abc) - Runtime behavioral contracts — ContractSpec DSL, drift detection via JSD, SPRT certification. arXiv:2602.22302 (4 citations).
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
 - [OpenClaw Beacon Scorecard](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
