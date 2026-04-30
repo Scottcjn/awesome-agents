@@ -144,6 +144,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
 - [OpenClaw Beacon Scorecard](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
+- [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 - [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
 - [Langfuse](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
