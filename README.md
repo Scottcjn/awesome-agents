@@ -135,6 +135,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Autonolas](https://github.com/valory-xyz/open-autonomy) - Platform for creating and deploying autonomous agent services on-chain.
 - [Virtuals Protocol](https://www.virtuals.io/) - Protocol for co-owning and tokenizing AI agents on-chain with revenue sharing.
 - [Hashgraph Online (HOL)](https://hol.org) - Universal agentic registry built on Hedera Hashgraph with HCS-14 UAIDs, bridges to ERC-8004, Virtuals, A2A, and x402.
+- [AIMorgan](https://aimorgan.vercel.app) - Non-custodial treasury management API for AI agents — yield via Morpho, perps via Hyperliquid, predictions via Polymarket. x402-native with MCP server.
 - [ai16z ELIZA](https://github.com/ai16z/eliza) - Multi-agent simulation framework enabling AI agents to interact on social media and manage crypto wallets.
 - [Morpheus](https://github.com/MorpheusAIs/Morpheus) - Decentralized network of personal AI agents connected to smart contracts and crypto wallets.
 - [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
