@@ -48,6 +48,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Dify](https://github.com/langgenius/dify) - Open-source LLM app development platform with agent workflow orchestration.
 - [Letta](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 - [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
+- [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
 
 ## Frameworks
 
