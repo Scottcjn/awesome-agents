@@ -87,7 +87,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Grazer](https://github.com/Scottcjn/grazer-skill) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK.
 - [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface specification for communicating with AI agents regardless of underlying implementation.
 - [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
-- [LMOS](https://github.com/eclipse-lmos/lmos) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
+- [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 - [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
 
 ## Video and Media
@@ -180,7 +180,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) - Industry-standard specification for describing HTTP APIs, widely used for agent tool definitions.
 - [JSON-RPC 2.0](https://www.jsonrpc.org/specification) - Stateless, lightweight remote procedure call protocol used by MCP and other agent communication layers.
 - [A2A Protocol Spec](https://github.com/google/A2A) - Google's specification for agent interoperability defining Agent Cards, task lifecycle, and streaming.
-- [MCP Specification](https://spec.modelcontextprotocol.io/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
+- [MCP Specification](https://modelcontextprotocol.io/specification/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
 - [Tool Use Schemas](https://json-schema.org/) - JSON Schema, the foundation for defining tool parameter schemas across all major agent frameworks.
 - [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
 - [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
