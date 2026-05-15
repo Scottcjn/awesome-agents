@@ -76,6 +76,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) - Microsoft's code-first agent framework converting natural language requests into executable code.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
 - [Agno](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
 
 ## Agent-to-Agent Protocols
 
