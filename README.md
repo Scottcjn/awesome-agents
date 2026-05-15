@@ -147,6 +147,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 - [OpenClaw Beacon Scorecard](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 - [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 - [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
