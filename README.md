@@ -141,6 +141,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [ai16z ELIZA](https://github.com/ai16z/eliza) - Multi-agent simulation framework enabling AI agents to interact on social media and manage crypto wallets.
 - [Morpheus](https://github.com/MorpheusAIs/Morpheus) - Decentralized network of personal AI agents connected to smart contracts and crypto wallets.
 - [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
+- [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments on XRP Ledger. List agents, prompts, workflows. Instant settlement, ~$350 free volume, no platform lock-in.
 - [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
 
 ## Monitoring and Observability
