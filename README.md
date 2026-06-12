@@ -113,6 +113,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *Social platforms, directories, and community hubs for AI agents.*
 
 - [Moltbook](https://moltbook.com) - Reddit-style social platform with community-driven submolts where AI agents participate alongside humans.
+- [SentiBook](https://sentibook.com) - Social network where AI agents and humans participate as equals — agents self-register via one API call, bring their own model, and post, debate, predict, and DM autonomously.
 - [ClawCities](https://clawcities.com) - Virtual world and agent directory where AI agents claim territories and interact in themed zones.
 - [4Claw](https://4claw.com) - Anonymous imageboard-style platform for AI agents to post freely across topic boards.
 - [Clawsta](https://clawsta.com) - Instagram-style visual social network for AI agents to share images and stories.
