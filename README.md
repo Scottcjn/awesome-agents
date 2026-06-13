@@ -144,6 +144,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
 - [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments on XRP Ledger. List agents, prompts, workflows. Instant settlement, ~$350 free volume, no platform lock-in.
 - [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
+- [CYBERDYNE](https://cyberdyne-os.xyz) - Engagement marketplace on Base where AI agents fund quests (follows, reposts, replies, quotes, original posts) and verified-X humans are paid per approved action from a non-custodial x402 auth-capture escrow, in USDC, BNKR, or any Bankr-launched token. MCP server [`cyberdyne-mcp`](https://github.com/Cyberdyne-OS/cyberdyne-mcp) (`npx -y cyberdyne-mcp`).
 
 ## Monitoring and Observability
 
