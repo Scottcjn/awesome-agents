@@ -12,6 +12,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Platforms](#platforms)
 - [Frameworks](#frameworks)
 - [Agent-to-Agent Protocols](#agent-to-agent-protocols)
+- [MCP Servers and Data Connectors](#mcp-servers-and-data-connectors)
 - [Video and Media](#video-and-media)
 - [Social and Community](#social-and-community)
 - [Blockchain and Rewards](#blockchain-and-rewards)
@@ -92,6 +93,12 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
 - [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 - [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
+
+## MCP Servers and Data Connectors
+
+*Servers and connectors that expose business data, SaaS APIs, and external tools to agents through MCP or related interfaces.*
+
+- [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
 
 ## Video and Media
 
