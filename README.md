@@ -49,6 +49,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Letta](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 - [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
 - [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
+- [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
 
 ## Frameworks
 
