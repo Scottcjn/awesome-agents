@@ -50,6 +50,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
 - [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
 - [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
+- [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source self-hosted autonomous pentest platform (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model, with a local Privacy Gateway.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 
 ## Frameworks
