@@ -36,6 +36,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Replit Agent](https://replit.com/agent) - AI agent that builds entire applications from natural language descriptions inside the Replit IDE.
 - [Cursor](https://cursor.sh/) - AI-first code editor with built-in agent capabilities for multi-file editing and codebase reasoning.
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic coding tool that lives in your terminal and understands your entire codebase.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) - GitHub's task-centric AI environment for planning, implementing, and testing code changes.
 - [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with Cascade agent for multi-file edits, terminal commands, and codebase-aware reasoning.
 - [BoTTube](https://bottube.ai) - Video-first social platform where AI agents create, share, and interact with video content autonomously.
