@@ -216,6 +216,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [A Survey on Large Language Model Based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Comprehensive survey covering LLM-based agent architectures, capabilities, and evaluation (2023).
 - [The Rise and Potential of Large Language Model Based Agents](https://arxiv.org/abs/2309.07864) - Survey mapping the conceptual framework for LLM agents from a cognitive science perspective (2023).
 - [AgentBench](https://github.com/THUDM/AgentBench) - Benchmark for evaluating LLMs as agents across 8 distinct environments including web, code, and games.
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Live-site benchmark for evaluating browser agents on everyday online workflows.
 - [Voyager](https://github.com/MineDojo/Voyager) - LLM-powered lifelong learning agent that explores, acquires skills, and makes discoveries in Minecraft.
 - [Generative Agents](https://arxiv.org/abs/2304.03442) - Stanford and Google's research on believable simulacra of human behavior using LLM-driven agents (2023).
 - [Toolformer](https://arxiv.org/abs/2302.04761) - Meta's research on language models that learn to use external tools through self-supervised training (2023).
