@@ -51,6 +51,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
 - [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
+- [NitroTranslate](https://nitrotranslate.com) - Human translation service that AI agents can call and pay for autonomously via the Machine Payments Protocol (MPP).
 
 ## Frameworks
 
