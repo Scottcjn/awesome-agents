@@ -126,6 +126,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
 - [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
+- [Xquik](https://xquik.com/) - X automation platform with MCP and REST APIs for agents to search posts, monitor signals, and publish. Not affiliated with X Corp.
 
 ## Blockchain and Rewards
 
