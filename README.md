@@ -80,6 +80,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [rust-norion](https://github.com/yanghao1143/rust-norion) - Rust prototype for building agent runtime control layers with memory gates, model routing policy, audit evidence, and self-evolution loop tooling.
 - [Agno](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
+- [Nika](https://github.com/supernovae-st/nika) - Workflow language and runner for AI jobs: one plain-text `.nika.yaml` DAG per job, statically checked before any token is spent (plan, types, secret flows, cost floor), executed by a single Rust binary with hash-chained run traces and an in-binary MCP server.
 
 ## Agent-to-Agent Protocols
 
