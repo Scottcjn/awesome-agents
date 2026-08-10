@@ -96,6 +96,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
 - [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 - [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
+- [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) - Open-source relay CLI for invoking an existing local agent or automation over a trusted LAN while its implementation and credentials remain on the publisher's machine.
 
 ## Video and Media
 
