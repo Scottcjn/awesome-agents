@@ -69,6 +69,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Swarm](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
 - [Smolagents](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Lightweight Python framework for tool-using agents, memory-backed assistants, deterministic workflows, and multi-agent collaboration.
 - [DSPy](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
 - [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 - [Composio](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
