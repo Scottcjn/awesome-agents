@@ -103,6 +103,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *Servers and connectors that expose business data, SaaS APIs, and external tools to agents through MCP or related interfaces.*
 
 - [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
+- [SandBase](https://github.com/sandbaseai/cli) - Open-source CLI and local MCP bridge giving AI agents unified access to 2,000+ AI models and APIs.
 
 ## Video and Media
 
