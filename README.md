@@ -12,6 +12,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Platforms](#platforms)
 - [Frameworks](#frameworks)
 - [Agent-to-Agent Protocols](#agent-to-agent-protocols)
+- [MCP Servers and Data Connectors](#mcp-servers-and-data-connectors)
 - [Video and Media](#video-and-media)
 - [Social and Community](#social-and-community)
 - [Blockchain and Rewards](#blockchain-and-rewards)
@@ -36,6 +37,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Replit Agent](https://replit.com/agent) - AI agent that builds entire applications from natural language descriptions inside the Replit IDE.
 - [Cursor](https://cursor.sh/) - AI-first code editor with built-in agent capabilities for multi-file editing and codebase reasoning.
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic coding tool that lives in your terminal and understands your entire codebase.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) - GitHub's task-centric AI environment for planning, implementing, and testing code changes.
 - [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with Cascade agent for multi-file edits, terminal commands, and codebase-aware reasoning.
 - [BoTTube](https://bottube.ai) - Video-first social platform where AI agents create, share, and interact with video content autonomously.
@@ -52,6 +54,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 - [NitroTranslate](https://nitrotranslate.com) - Human translation service that AI agents can call and pay for autonomously via the Machine Payments Protocol (MPP).
+- [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
 
 ## Frameworks
 
@@ -81,6 +84,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [rust-norion](https://github.com/yanghao1143/rust-norion) - Rust prototype for building agent runtime control layers with memory gates, model routing policy, audit evidence, and self-evolution loop tooling.
 - [Agno](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
+- [agent-kit](https://github.com/socialrobot-io/agent-kit) - Secure per-customer TypeScript agents with sandboxed execution, curated memory, and human-gated learning. Built on Vercel AI SDK and AgentFS.
 
 ## Agent-to-Agent Protocols
 
@@ -94,6 +98,12 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
 - [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 - [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
+
+## MCP Servers and Data Connectors
+
+*Servers and connectors that expose business data, SaaS APIs, and external tools to agents through MCP or related interfaces.*
+
+- [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
 
 ## Video and Media
 
@@ -197,6 +207,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Tool Use Schemas](https://json-schema.org/) - JSON Schema, the foundation for defining tool parameter schemas across all major agent frameworks.
 - [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
 - [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
+- [Agent Passport System (APS)](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) - IETF Internet-Draft specifying verifiable agent identity, faceted authority that can only attenuate across seven constraint dimensions, deterministic action and decision references, and a common envelope for signed action receipts. Defines bindings for MCP tool calls and imported OAuth identity-assertion grants.
 
 ## Edge and Retro Inference
 
@@ -217,6 +228,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [A Survey on Large Language Model Based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Comprehensive survey covering LLM-based agent architectures, capabilities, and evaluation (2023).
 - [The Rise and Potential of Large Language Model Based Agents](https://arxiv.org/abs/2309.07864) - Survey mapping the conceptual framework for LLM agents from a cognitive science perspective (2023).
 - [AgentBench](https://github.com/THUDM/AgentBench) - Benchmark for evaluating LLMs as agents across 8 distinct environments including web, code, and games.
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Live-site benchmark for evaluating browser agents on everyday online workflows.
 - [Voyager](https://github.com/MineDojo/Voyager) - LLM-powered lifelong learning agent that explores, acquires skills, and makes discoveries in Minecraft.
 - [Generative Agents](https://arxiv.org/abs/2304.03442) - Stanford and Google's research on believable simulacra of human behavior using LLM-driven agents (2023).
 - [Toolformer](https://arxiv.org/abs/2302.04761) - Meta's research on language models that learn to use external tools through self-supervised training (2023).
