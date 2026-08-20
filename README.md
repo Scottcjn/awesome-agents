@@ -236,6 +236,8 @@ AI agents are autonomous software entities that perceive their environment, make
 - [MRKL Systems](https://arxiv.org/abs/2205.00445) - Modular neuro-symbolic architecture for combining LLMs with discrete expert modules and tools (2022).
 - [Reflexion](https://arxiv.org/abs/2303.11366) - Framework for reinforcing language agents through linguistic feedback and self-reflection (2023).
 - [Language Agent Tree Search](https://arxiv.org/abs/2310.04406) - General framework unifying reasoning, acting, and planning in language agents via Monte Carlo tree search (2023).
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) - Autonomous research system with Prompt Economy design, scaling scientist/coder/auditor loops across more than ten domains with a 30-day unattended run (2026).
+- [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) - First benchmark for multi-agent orchestration prompt writing, evaluating 33 LLMs across 110 scenarios and 10 loop topologies (2026).
 - [POWER8 Non-Bijunctive Collapse](https://github.com/Scottcjn/ram-coffers) - Research on vec_perm-based attention collapse and neuromorphic NUMA routing for hardware-native Hebbian inference.
 
 ## Contributing
