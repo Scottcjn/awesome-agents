@@ -54,6 +54,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 - [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
+- [Mobile SSH](https://mobile-ssh.github.io) - Android and iOS SSH client that runs terminal coding agents (Claude Code, Codex) on remote machines, with a multi-server tmux session manager and phone alerts when an agent is waiting on input.
 
 ## Frameworks
 
