@@ -81,6 +81,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) - Microsoft's code-first agent framework converting natural language requests into executable code.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
 - [rust-norion](https://github.com/yanghao1143/rust-norion) - Rust prototype for building agent runtime control layers with memory gates, model routing policy, audit evidence, and self-evolution loop tooling.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted runtime for building and operating AI agents with persistent sessions, MCP tools, memory, credentials, audit/replay, and Docker/Kubernetes sandboxes.
 - [Agno](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
 - [agent-kit](https://github.com/socialrobot-io/agent-kit) - Secure per-customer TypeScript agents with sandboxed execution, curated memory, and human-gated learning. Built on Vercel AI SDK and AgentFS.
