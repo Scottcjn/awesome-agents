@@ -175,6 +175,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 - [Weights & Biases](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
+- [Bifrost](https://github.com/maximhq/bifrost) - AI gateway for routing requests across model providers with automatic failover, load balancing, observability, and MCP support.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
 - [BrowserTrace](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
