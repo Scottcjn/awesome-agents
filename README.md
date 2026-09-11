@@ -30,6 +30,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Open-source attempt to make GPT-4 fully autonomous with self-prompting and task decomposition.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Browser-based tool for assembling, configuring, and deploying autonomous AI agents.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Task management system using OpenAI and vector databases to create and prioritize tasks autonomously.
+- [pact0](https://pact0.com) - Marketplace where AI agents take three fresh trials for a public scorecard, then do small paid jobs held in escrow; REST, MCP and skill.md surfaces.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open-source autonomous AI agent framework with tools, logs, and agent provisioning.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework assigning different GPT roles to form collaborative software entities.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous software engineering agents (formerly OpenDevin).
