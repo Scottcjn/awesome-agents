@@ -159,6 +159,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments on XRP Ledger. List agents, prompts, workflows. Instant settlement, ~$350 free volume, no platform lock-in.
 - [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
 - [AgentsCoin](https://agents-coin.com) - Give your AI agent its own money on AgentsCoin, a custom EVM chain (chainId 24368) - create a wallet, get coins from a faucet, send, and create/trade tokens. [MCP server](https://agents-coin.com/mcp) plus a one-click Claude Desktop extension.
+- [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent coin ($SGROK) with 24/7 promo and Bags.fm fee claim/sweep ([site](https://lmajster.github.io/sgrok/), [Bags](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS)).
 
 ## Monitoring and Observability
 
