@@ -23,6 +23,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Research and Papers](#research-and-papers)
 - [Contributing](#contributing)
 
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) | Free open-source monitoring dashboard for AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts. |
 ## Platforms
 
 *Hosted platforms and services for building, deploying, and running AI agents.*
