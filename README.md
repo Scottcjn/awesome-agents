@@ -186,6 +186,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
 - [Bifrost](https://github.com/maximhq/bifrost) - AI gateway for routing requests across model providers with automatic failover, load balancing, observability, and MCP support.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding agent's session at the HTTP boundary and serves the recording back, so the same run re-executes with no model called, or forks from a checkpoint onto other models.
 - [BrowserTrace](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
 ## SDKs and Libraries
