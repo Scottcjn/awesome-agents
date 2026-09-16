@@ -249,6 +249,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) - Autonomous research system with Prompt Economy design, scaling scientist/coder/auditor loops across more than ten domains with a 30-day unattended run (2026).
 - [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) - First benchmark for multi-agent orchestration prompt writing, evaluating 33 LLMs across 110 scenarios and 10 loop topologies (2026).
 - [POWER8 Non-Bijunctive Collapse](https://github.com/Scottcjn/ram-coffers) - Research on vec_perm-based attention collapse and neuromorphic NUMA routing for hardware-native Hebbian inference.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) - Benchmark for evaluating coding agents across isolated task prompts in fresh-repository attempt workspaces, plus a governed lane for production-touching workflows with blinded per-step judging. MIT, on npm as @yylo/benchmark.
 
 ## Contributing
 
