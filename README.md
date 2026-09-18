@@ -1,11 +1,18 @@
 # Awesome Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05IDE2LjE3TDQuODMgMTJsLTEuNDIgMS40MUw5IDE5IDIxIDdsLTEuNDEtMS40MXoiLz48L3N2Zz4=)](https://github.com/Scottcjn/Rustchain/blob/main/BCOS.md)
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
 
-
-> A curated list of AI agent platforms, frameworks, protocols, tools, and resources.
+> **Awesome Agents** is an open, curated index of autonomous AI agent infrastructure, covering orchestration frameworks, agent-to-agent (A2A) protocols, Model Context Protocol (MCP) servers, and blockchain reward rails across the physical and decentralized AI economy.
 
 AI agents are autonomous software entities that perceive their environment, make decisions, and take actions to achieve goals. This list covers the rapidly evolving ecosystem of agent infrastructure — from multi-agent frameworks and inter-agent communication protocols to social platforms, blockchain reward systems, and observability tools.
+
+### Quick Overview & FAQ
+
+- **What is Awesome Agents?** A community-driven, BCOS-certified catalog tracking production-ready and open-source infrastructure for building, coordinating, and monetizing autonomous AI agents.
+- **How is the ecosystem organized?** Infrastructure is indexed across 12 distinct categories: hosted platforms, reasoning frameworks, agent-to-agent (A2A) communication protocols, MCP servers, generative media pipelines, social networks, blockchain/DePIN reward layers, monitoring tooling, developer SDKs, open standards, edge/retro inference engines, and peer-reviewed research.
+- **How do I submit an agent or tool?** Contributions are welcome! Read the [Contributing Guidelines](CONTRIBUTING.md) and open a Pull Request adhering to formatting standards.
+- **Machine-Readable Index:** See [llms.txt](llms.txt) for the LLM-native structured manifest and entity graph.
 
 ## Contents
 

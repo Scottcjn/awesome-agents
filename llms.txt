@@ -1,0 +1,42 @@
+# Awesome Agents
+
+> Awesome Agents is a curated, community-driven directory of AI agent platforms, multi-agent frameworks, inter-agent communication protocols, tools, and blockchain reward infrastructure — maintained by Elyan Labs and BCOS-certified within the RustChain ecosystem.
+
+- **One-sentence definition**: Awesome Agents is the definitive open index of autonomous AI agent infrastructure, covering multi-agent orchestration frameworks, agent-to-agent communication protocols, MCP servers, and decentralized reward rails.
+- **Description**: Awesome Agents is an open, curated directory (CC0 / MIT friendly) tracking the real-world deployment of autonomous software entities. It categorizes production-ready and experimental agent platforms across 9 core architectural layers: agent platforms, multi-agent frameworks, communication protocols (A2A), Model Context Protocol (MCP) servers, video and media generation engines, social coordination planes, blockchain reward systems, observability/monitoring stacks, and client SDKs.
+- **Parent ecosystem**: [RustChain](https://rustchain.org) & [Elyan Labs](https://github.com/Scottcjn)
+- **Certification**: [BCOS Certified](https://github.com/Scottcjn/Rustchain/blob/main/BCOS.md) (Blockchain-Native Open Source)
+- **Repository**: https://github.com/Scottcjn/awesome-agents
+- **Maintained by**: [Elyan Labs](https://github.com/Scottcjn) / @Scottcjn
+- **Bounty Program**: https://github.com/Scottcjn/rustchain-bounties
+- **Topics**: ai-agents, autonomous-agents, multi-agent-systems, agent-protocols, mcp-servers, depin, rustchain, elyan-labs, agent-economy, llm-tooling, awesome-list
+
+## Key Entities
+
+- **Awesome Agents**: The curated directory of agent infrastructure, frameworks, protocols, and developer resources.
+- **Autonomous Agent**: An independent software system capable of perceiving its environment, reasoning, making decisions, executing multi-step workflows, and transacting autonomously.
+- **Agent-to-Agent (A2A) Protocols**: Communication standards enabling negotiation, state synchronization, task handoff, and value transfer between distinct AI agent instances.
+- **Model Context Protocol (MCP)**: Standardized open protocol enabling AI models and agents to securely access external datasets, tools, and developer environments.
+- **BCOS (Blockchain-Native Open Source)**: Certification and standard establishing cryptographic provenance, wallet attribution, and fair reward mechanisms for open-source contributors.
+- **Elyan Labs**: Research and development studio behind RustChain, BoTTube, ram-coffers, and the physical AI agent economy.
+- **RustChain**: DePIN Layer 1 blockchain securing autonomous hardware attestation, Proof of Antiquity (PoA), and machine micro-settlement in RTC.
+
+## Directory Structure & Categories
+
+1. **Platforms**: End-to-end hosted environments and execution planes for deploying autonomous agents.
+2. **Frameworks**: Code libraries and SDKs for assembling agentic reasoning loops, memory systems, and tool execution graphs.
+3. **Agent-to-Agent Protocols**: Specifications and transport layers facilitating direct agent-to-agent collaboration and economic trade.
+4. **MCP Servers and Data Connectors**: Bridges exposing APIs, enterprise databases, filesystems, and sensors to LLMs.
+5. **Video and Media**: Autonomous pipelines for audio, video, 3D asset, and graphic generation.
+6. **Social and Community**: Agent social networks, human-agent interaction planes, and autonomous forum moderators.
+7. **Blockchain and Rewards**: Cryptographic rails, micropayment channels, DePIN attestation, and bounty programs for autonomous agents.
+8. **Monitoring and Observability**: Telemetry, execution tracing, hallucination auditing, and safety guardrails.
+9. **SDKs and Libraries**: Language bindings and client libraries for interacting with agent infrastructure.
+
+## Canonical Ecosystem Links
+
+- **RustChain Network**: https://rustchain.org
+- **BoTTube Video Platform**: https://bottube.ai
+- **RustChain Main Repository**: https://github.com/Scottcjn/Rustchain
+- **Bounties & Task Hub**: https://github.com/Scottcjn/rustchain-bounties
+- **Awesome Agents Repository**: https://github.com/Scottcjn/awesome-agents
