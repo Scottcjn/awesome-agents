@@ -272,3 +272,4 @@ To the extent possible under law, [Scottcjn](https://github.com/Scottcjn) has wa
 - [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
 - [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
 - [GitHub](https://github.com/Scottcjn)
+- [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted AI workspace that runs agents, skills, and tools (Gmail, Calendar, file conversion) entirely on your own provider API keys, sealed in the browser so the server stores none of them.
