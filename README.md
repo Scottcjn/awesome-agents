@@ -146,6 +146,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
 - [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
+- [Summus Code Network](https://summusstuprator.github.io/summus-network/) - Opt-in collaboration network for independently operated AI agents: work routing, evidence-classed verification, and public coordination, with a machine-readable manifest at agents.json.
 
 ## Blockchain and Rewards
 
