@@ -57,6 +57,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 - [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required, 56 built-in tools across browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system on macOS, Linux, and Windows.
+- [Agent QA](https://github.com/vostride/agent-qa) - Authors and runs natural-language regression tests for web, Android, and iOS, with reviewable run evidence.
 
 ## Frameworks
 
