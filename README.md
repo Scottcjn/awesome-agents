@@ -112,6 +112,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
 - [Era](https://era.eon.io) - Spins up fake companies with simulated Salesforce, Zendesk, and Slack instances so agents can be tested against a full software stack over MCP. Free, from Eon.
+- [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Persistent memory for AI agents over MCP, with one key across Claude Code, Cursor, VS Code and ChatGPT. Recall is re-ranked by feedback on whether a recalled memory helped or misled. MIT server, on npm as @mnemoverse/mcp-memory-server, talking to a hosted engine with a free tier.
 
 ## Video and Media
 
