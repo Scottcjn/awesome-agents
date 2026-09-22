@@ -168,6 +168,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments on XRP Ledger. List agents, prompts, workflows. Instant settlement, ~$350 free volume, no platform lock-in.
 - [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
 - [AgentsCoin](https://agents-coin.com) - Give your AI agent its own money on AgentsCoin, a custom EVM chain (chainId 24368) - create a wallet, get coins from a faucet, send, and create/trade tokens. [MCP server](https://agents-coin.com/mcp) plus a one-click Claude Desktop extension.
+- [Feeless402](https://github.com/Feeless402/feeless402) - Self-custodied Nano (XNO) wallet and x402 payment client for AI agents, with feeless sub-second on-ledger settlement.
 
 ## Monitoring and Observability
 
