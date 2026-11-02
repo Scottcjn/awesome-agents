@@ -129,6 +129,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
 - [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
+- [Breatic](https://github.com/orime-org/breatic) - Open-source collaborative creation workspace combining AI canvases, shared documents, and project-aware agents with human review of proposed document edits.
 
 ## Social and Community
 
