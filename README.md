@@ -112,6 +112,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) - Open-source MCP server that connects AI agents to business data APIs such as Stripe, GA4, Shopify, QuickBooks, and HubSpot.
 - [Era](https://era.eon.io) - Spins up fake companies with simulated Salesforce, Zendesk, and Slack instances so agents can be tested against a full software stack over MCP. Free, from Eon.
+- [BlockVectra MCP](https://github.com/blockvectra/mcp) - Hosted MCP server for EVM JSON-RPC, indexed blockchain data, and source-linked documentation; docs and discovery need no API key, while indexed data requires one.
 
 ## Video and Media
 
