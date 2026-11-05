@@ -59,6 +59,8 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required, 56 built-in tools across browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system on macOS, Linux, and Windows.
 - [Agent QA](https://github.com/vostride/agent-qa) - Authors and runs natural-language regression tests for web, Android, and iOS, with reviewable run evidence.
 
+- [Cloudbrowser](https://cloudbrowser.tv) - Persistent remote Chrome browser for AI agent workflows, with isolated profiles, scoped CDP access, full desktop Live View, pause/resume, and paused-source forking.
+
 ## Frameworks
 
 *Libraries and frameworks for building agent systems programmatically.*
