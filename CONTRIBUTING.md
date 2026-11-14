@@ -36,6 +36,12 @@ Thank you for your interest in contributing! This list aims to be a high-quality
 - Links must point to the project's primary resource (GitHub repo, official website, or paper).
 - Descriptions must accurately represent what the project does.
 - Projects should have a meaningful user base or demonstrate clear utility.
+- Check current availability and status against an official source; clearly label historical resources or remove retired listings.
+- Cite a primary source and include a check date for time-sensitive availability, governance, regulatory, or usage-count claims.
+
+### Local Checks
+
+Before opening a pull request, run `PYTHONDONTWRITEBYTECODE=1 python -m unittest discover -s tests -v` and `PYTHONDONTWRITEBYTECODE=1 python scripts/check_catalog.py`. These offline checks validate README anchors, catalog row format, local links, duplicate resource targets, and repository license/status labels; they do not verify that external websites remain reachable or that descriptions remain current.
 
 ### Updating Your Pull Request
 

@@ -1,6 +1,6 @@
 # Awesome Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05IDE2LjE3TDQuODMgMTJsLTEuNDIgMS40MUw5IDE5IDIxIDdsLTEuNDEtMS40MXoiLz48L3N2Zz4=)](https://github.com/Scottcjn/Rustchain/blob/main/BCOS.md)
+[![BCOS Status: Pending](https://img.shields.io/badge/BCOS-Pending-orange?style=flat-square)](BCOS.md)
 
 
 > A curated list of AI agent platforms, frameworks, protocols, tools, and resources.
@@ -38,10 +38,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Cursor](https://cursor.sh/) - AI-first code editor with built-in agent capabilities for multi-file editing and codebase reasoning.
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic coding tool that lives in your terminal and understands your entire codebase.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
-- [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) - GitHub's task-centric AI environment for planning, implementing, and testing code changes.
 - [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with Cascade agent for multi-file edits, terminal commands, and codebase-aware reasoning.
-- [BoTTube](https://bottube.ai) - Video-first social platform where AI agents create, share, and interact with video content autonomously.
-- [Moltbook](https://moltbook.com) - Reddit-style social platform with submolt communities where AI agents and humans coexist.
 - [OpenClaw](https://openclaw.org) - Open agent directory and discovery platform for registering and finding AI agents across the web.
 - [E2B](https://github.com/e2b-dev/e2b) - Open-source cloud runtime providing sandboxed environments for AI agent code execution.
 - [Wordware](https://www.wordware.ai/) - Natural language programming platform for building AI agents without traditional code.
@@ -96,8 +93,8 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Protocols and standards for agents to discover, communicate with, and delegate tasks to other agents.*
 
-- [Google A2A](https://github.com/google/A2A) - Google's open Agent-to-Agent protocol enabling interoperable communication between AI agents.
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Anthropic's open protocol for connecting AI models to external data sources and tools.
+- [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) - Open standard for communication between AI agents, originally developed by Google and now part of the Linux Foundation's Agentic AI Foundation.
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) - Open-source standard for connecting AI applications and agents to external tools, data sources, and workflows.
 - [OpenClaw Beacon](https://github.com/Scottcjn/beacon-skill) - Decentralized agent discovery and liveness protocol where agents broadcast capabilities via heartbeat pings.
 - [Grazer](https://github.com/Scottcjn/grazer-skill) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK.
 - [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface specification for communicating with AI agents regardless of underlying implementation.
@@ -126,7 +123,6 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Synthesia](https://www.synthesia.io/) - Enterprise AI video platform for creating professional videos with AI avatars and voices.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI model generating realistic and fantastical videos from text and images.
 - [Kling AI](https://klingai.com/) - Video generation model from Kuaishou capable of high-fidelity 1080p video synthesis.
-- [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
 - [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
 
@@ -146,17 +142,16 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
 - [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
+- [GenZnewZ](https://genznewz.com) - AI-native newsroom where AI agents self-register as reporters and publish news autonomously through a public API.
 
 ## Blockchain and Rewards
 
 *Blockchain networks, tokens, and reward systems for AI agents.*
 
 - [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage and exotic hardware miners with RTC tokens.
-- [wRTC Token (Solana)](https://solscan.io/token/12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZGf5i4X) - Wrapped RTC token bridged to Solana with a Raydium liquidity pool.
-- [wRTC Token (Base)](https://basescan.org/token/0x5683C10596AaA09AD7F4eF13CAB94b9b74A669c6) - Wrapped RTC token on Base L2 with an Aerodrome liquidity pool.
 - [x402 Payment Protocol](https://github.com/coinbase/x402) - Coinbase's HTTP 402-based micropayment protocol enabling agents to pay for API access natively.
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
-- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`.
 - [Fetch.ai](https://github.com/fetchai/fetchd) - Decentralized machine learning platform with autonomous economic agents on a dedicated blockchain.
 - [Autonolas](https://github.com/valory-xyz/open-autonomy) - Platform for creating and deploying autonomous agent services on-chain.
 - [Virtuals Protocol](https://www.virtuals.io/) - Protocol for co-owning and tokenizing AI agents on-chain with revenue sharing.
@@ -175,7 +170,6 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 - [ax (agent telemetry)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
-- [OpenClaw Beacon Scorecard](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 - [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 - [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
@@ -195,11 +189,10 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [bottube](https://pypi.org/project/bottube/) - Python SDK for the BoTTube platform enabling agents to upload videos, post comments, and manage profiles.
 - [clawrtc](https://pypi.org/project/clawrtc/) - Python CLI and library for RustChain mining, wallet management, and Coinbase wallet integration.
-- [beacon-skill](https://github.com/Scottcjn/beacon-skill) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings.
 - [grazer-skill](https://pypi.org/project/grazer-skill/) - Multi-platform social SDK allowing agents to post and interact across BoTTube, Moltbook, ClawCities, and 6 more.
 - [OpenAI Python](https://github.com/openai/openai-python) - Official Python client library for the OpenAI API including assistants and tool use.
 - [Anthropic Python](https://github.com/anthropics/anthropic-sdk-python) - Official Python client for Claude with support for tool use, streaming, and batching.
-- [Google GenAI](https://github.com/google/generative-ai-python) - Google's Python SDK for Gemini models with function calling and multi-modal support.
+- [Google GenAI](https://github.com/googleapis/python-genai) - Google's official, production-ready Python SDK for the Gemini API.
 - [Ollama Python](https://github.com/ollama/ollama-python) - Python library for running and interacting with local LLMs via the Ollama runtime.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
 - [Marvin](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
@@ -209,11 +202,10 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Formal specifications, protocol definitions, and standard documents for the agent ecosystem.*
 
-- [RIP-200](https://github.com/Scottcjn/Rustchain) - RustChain Improvement Proposal for Round-Robin 1-CPU-1-Vote consensus with hardware attestation and time-aged antiquity multipliers.
+- [RIP-200](https://github.com/Scottcjn/Rustchain/blob/main/node/rip_200_round_robin_1cpu1vote.py) - Reference implementation for RustChain's Round-Robin 1-CPU-1-Vote consensus with hardware attestation and time-aged antiquity multipliers.
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) - Industry-standard specification for describing HTTP APIs, widely used for agent tool definitions.
 - [JSON-RPC 2.0](https://www.jsonrpc.org/specification) - Stateless, lightweight remote procedure call protocol used by MCP and other agent communication layers.
-- [A2A Protocol Spec](https://github.com/google/A2A) - Google's specification for agent interoperability defining Agent Cards, task lifecycle, and streaming.
-- [MCP Specification](https://modelcontextprotocol.io/specification/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
+- [MCP Specification](https://modelcontextprotocol.io/specification/) - The MCP specification defines how clients and servers exchange tools, resources, and prompts.
 - [Tool Use Schemas](https://json-schema.org/) - JSON Schema, the foundation for defining tool parameter schemas across all major agent frameworks.
 - [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
 - [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
@@ -261,15 +253,15 @@ This list is maintained by [Elyan Labs](https://github.com/Scottcjn). Built with
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-To the extent possible under law, [Scottcjn](https://github.com/Scottcjn) has waived all copyright and related or neighboring rights to this work.
+This repository is licensed under the [MIT License](LICENSE).
 
 
 ---
 
 ### Part of the Elyan Labs Ecosystem
 
-- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
-- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
-- [GitHub](https://github.com/Scottcjn)
+- [BoTTube](https://bottube.ai) - AI-native video platform for agent-created content.
+- [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain with hardware attestation.
+- [GitHub](https://github.com/Scottcjn) - Elyan Labs organization.
