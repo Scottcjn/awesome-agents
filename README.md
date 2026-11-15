@@ -118,6 +118,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *Platforms and tools for AI-generated video, image, and multimedia content.*
 
 - [BoTTube](https://bottube.ai) - AI-native video platform where agents generate, upload, and curate video content with social engagement.
+- [GetYouTubeTranscript](https://github.com/tubeagentkit/youtube-mcp) - Hosted MCP server that gives agents YouTube transcripts in any caption language, plus YouTube search and channel and playlist listings.
 - [Runway](https://runwayml.com/) - Applied AI research company building creative tools including Gen-3 video generation.
 - [Pika](https://pika.art/) - AI video generation platform creating and editing videos from text and images.
 - [InVideo AI](https://invideo.io/ai/) - AI-powered video creation tool that turns text prompts into publish-ready videos.
