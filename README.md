@@ -12,7 +12,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Platforms](#platforms)
 - [Frameworks](#frameworks)
 - [Agent-to-Agent Protocols](#agent-to-agent-protocols)
-- [MCP Servers and Data Connectors](#mcp-servers-and-data-connectors) 
+- [MCP Servers and Data Connectors](#mcp-servers-and-data-connectors)  
 - [Video and Media](#video-and-media)
 - [Social and Community](#social-and-community)
 - [Blockchain and Rewards](#blockchain-and-rewards)
@@ -53,7 +53,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
 - [AgentBox](https://github.com/madarco/agentbox) - Runs multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B). Sub-second checkpoints, per-box browser/VS Code/shells, git credentials kept on the host. MIT.
 - [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
-- [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source self-hosted autonomous pentest platform (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model, with a local  Privacy Gateway.
+- [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Open-source self-hosted autonomous pentest platform (MCP host) that orchestrates 80+ offensive-security tools via Claude or a local model, with a local  Privacy Gateway. 
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 - [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required, 56 built-in tools across browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system on macOS, Linux, and Windows.
