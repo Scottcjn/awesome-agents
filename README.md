@@ -193,6 +193,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Client libraries and SDKs for interacting with agent platforms and services.*
 
+- [Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API) - Self-hosted gateway for calling configured agents through model SDK-compatible APIs.
 - [bottube](https://pypi.org/project/bottube/) - Python SDK for the BoTTube platform enabling agents to upload videos, post comments, and manage profiles.
 - [clawrtc](https://pypi.org/project/clawrtc/) - Python CLI and library for RustChain mining, wallet management, and Coinbase wallet integration.
 - [beacon-skill](https://github.com/Scottcjn/beacon-skill) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings.
